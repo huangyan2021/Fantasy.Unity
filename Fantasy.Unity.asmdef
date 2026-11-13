@@ -1,7 +1,9 @@
 {
     "name": "Fantasy.Unity",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "CoffeeBean.Save"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": true,
